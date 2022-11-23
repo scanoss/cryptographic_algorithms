@@ -39,7 +39,7 @@ This list is based on the list of algorithms detected by [Minr](https://github.c
 | DHE | 128 | | 
 | DHIES | 128 | | 
 | DiffieHellman | 128 | | 
-| DSA | 128 | 128 | | 
+| DSA | 128 | |
 | ECDH | 128 | | 
 | ECMQV | 128 | | 
 | ElGamal | 128 | | 
@@ -93,7 +93,7 @@ This list is based on the list of algorithms detected by [Minr](https://github.c
 | PBES1 | 128 | | 
 | PBES2 | 256 | | 
 | pbkdf2 | 128 | | 
-| PKCS12 | 128 | 128 | | 
+| PKCS12 | 128 | |
 | QUAD | 128 | | 
 | Rabbit | 128 | | 
 | Rabin | 128 | | 
@@ -133,7 +133,7 @@ This list is based on the list of algorithms detected by [Minr](https://github.c
 | Tiger | 256 | | 
 | TNEPRES | 256 | | 
 | Twofish | 64 | | 
-| VMPC | | 
+| VMPC | 96 | 
 | Wake | 64 | | 
 | Whirpool | 128 | | 
 | XTEA | 128 | |
