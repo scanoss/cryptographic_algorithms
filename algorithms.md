@@ -5,7 +5,6 @@
 | 2DES             |       96 |                      | 
 | 3DES             |      128 |                      | 
 | 3Way             |      128 |                      | 
-| 3Way             |      128 |                      | 
 | ACE              |       64 |                      | 
 | AES              |      256 |                      | 
 | Anubis           |      128 |                      | 
@@ -42,8 +41,6 @@
 | F8               |      128 |                      | 
 | FastHash         |      256 |                      | 
 | FCrypt           |      128 |                      | 
-| Feal             |       64 |                      | 
-| Feal             |       64 |                      | 
 | Feal             |       64 |                      | 
 | Fletcher         |       64 |                      | 
 | FNV1             |     1024 |                      | 
