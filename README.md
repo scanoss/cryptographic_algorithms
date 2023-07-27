@@ -6,7 +6,7 @@ Welcome to our collaboration on the definition of cryptographic algorithms to be
 This list is based on the list of algorithms detected by [Minr](https://github.com/scanoss/minr "Minr")
 
 ## Algorithms
-The current list of algorithms can be found in [algorithms.md](algorithms.md).
+The current list of algorithms can be found in [algorithms.md](algorithms.md) or [algorithms.json](algorithms.json).
 
 This file contains the following columns:
 
