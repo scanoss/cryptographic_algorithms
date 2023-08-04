@@ -1,521 +1,521 @@
 [
   {
-    "Algorithm": "128-EEA1",
-    "Strength": 128
+    "algorithm": "128-EEA1",
+    "strength": 128
   },
   {
-    "Algorithm": "2DES",
-    "Strength": 96
+    "algorithm": "2DES",
+    "strength": 96
   },
   {
-    "Algorithm": "3DES",
-    "Strength": 128
+    "algorithm": "3DES",
+    "strength": 128
   },
   {
-    "Algorithm": "3Way",
-    "Strength": 128
+    "algorithm": "3Way",
+    "strength": 128
   },
   {
-    "Algorithm": "ACE",
-    "Strength": 64
+    "algorithm": "ACE",
+    "strength": 64
   },
   {
-    "Algorithm": "AES",
-    "Strength": 256
+    "algorithm": "AES",
+    "strength": 256
   },
   {
-    "Algorithm": "Anubis",
-    "Strength": 128
+    "algorithm": "Anubis",
+    "strength": 128
   },
   {
-    "Algorithm": "Aria",
-    "Strength": 256
+    "algorithm": "Aria",
+    "strength": 256
   },
   {
-    "Algorithm": "Baton",
-    "Strength": 320
+    "algorithm": "Baton",
+    "strength": 320
   },
   {
-    "Algorithm": "Bcrypt",
-    "Strength": 320
+    "algorithm": "Bcrypt",
+    "strength": 320
   },
   {
-    "Algorithm": "Blake2",
-    "Strength": 256
+    "algorithm": "Blake2",
+    "strength": 256
   },
   {
-    "Algorithm": "BlakeX",
-    "Strength": 512
+    "algorithm": "BlakeX",
+    "strength": 512
   },
   {
-    "Algorithm": "Blowfish",
-    "Strength": 320
+    "algorithm": "Blowfish",
+    "strength": 320
   },
   {
-    "Algorithm": "Blum-Goldwasser",
-    "Strength": 320
+    "algorithm": "Blum-Goldwasser",
+    "strength": 320
   },
   {
-    "Algorithm": "C2",
-    "Strength": 56
+    "algorithm": "C2",
+    "strength": 56
   },
   {
-    "Algorithm": "Camellia",
-    "Strength": 256
+    "algorithm": "Camellia",
+    "strength": 256
   },
   {
-    "Algorithm": "CAST",
-    "Strength": 320
+    "algorithm": "CAST",
+    "strength": 320
   },
   {
-    "Algorithm": "CAST3",
-    "Strength": 320
+    "algorithm": "CAST3",
+    "strength": 320
   },
   {
-    "Algorithm": "CAST5",
-    "Strength": 320
+    "algorithm": "CAST5",
+    "strength": 320
   },
   {
-    "Algorithm": "CAST6",
-    "Strength": 320
+    "algorithm": "CAST6",
+    "strength": 320
   },
   {
-    "Algorithm": "ChaCha(Salsa)",
-    "Strength": 256
+    "algorithm": "ChaCha(Salsa)",
+    "strength": 256
   },
   {
-    "Algorithm": "CMEA",
-    "Strength": 64
+    "algorithm": "CMEA",
+    "strength": 64
   },
   {
-    "Algorithm": "Cobra",
-    "Strength": 128
+    "algorithm": "Cobra",
+    "strength": 128
   },
   {
-    "Algorithm": "CRC16",
-    "Strength": 16
+    "algorithm": "CRC16",
+    "strength": 16
   },
   {
-    "Algorithm": "CRC32",
-    "Strength": 32
+    "algorithm": "CRC32",
+    "strength": 32
   },
   {
-    "Algorithm": "DCC",
-    "Strength": 64
+    "algorithm": "DCC",
+    "strength": 64
   },
   {
-    "Algorithm": "DES",
-    "Strength": 64
+    "algorithm": "DES",
+    "strength": 64
   },
   {
-    "Algorithm": "DESEde",
-    "Strength": 168
+    "algorithm": "DESEde",
+    "strength": 168
   },
   {
-    "Algorithm": "DESX",
-    "Strength": 64
+    "algorithm": "DESX",
+    "strength": 64
   },
   {
-    "Algorithm": "DHE",
-    "Strength": 128
+    "algorithm": "DHE",
+    "strength": 128
   },
   {
-    "Algorithm": "DHIES",
-    "Strength": 128
+    "algorithm": "DHIES",
+    "strength": 128
   },
   {
-    "Algorithm": "DiffieHellman",
-    "Strength": 128
+    "algorithm": "DiffieHellman",
+    "strength": 128
   },
   {
-    "Algorithm": "DSA",
-    "Strength": 128
+    "algorithm": "DSA",
+    "strength": 128
   },
   {
-    "Algorithm": "ECDH",
-    "Strength": 128
+    "algorithm": "ECDH",
+    "strength": 128
   },
   {
-    "Algorithm": "ECMQV",
-    "Strength": 128
+    "algorithm": "ECMQV",
+    "strength": 128
   },
   {
-    "Algorithm": "ElGamal",
-    "Strength": 128
+    "algorithm": "ElGamal",
+    "strength": 128
   },
   {
-    "Algorithm": "Enigma",
-    "Strength": 48
+    "algorithm": "Enigma",
+    "strength": 48
   },
   {
-    "Algorithm": "F8",
-    "Strength": 128
+    "algorithm": "F8",
+    "strength": 128
   },
   {
-    "Algorithm": "FastHash",
-    "Strength": 256
+    "algorithm": "FastHash",
+    "strength": 256
   },
   {
-    "Algorithm": "FCrypt",
-    "Strength": 128
+    "algorithm": "FCrypt",
+    "strength": 128
   },
   {
-    "Algorithm": "Feal",
-    "Strength": 64
+    "algorithm": "Feal",
+    "strength": 64
   },
   {
-    "Algorithm": "Fletcher",
-    "Strength": 64
+    "algorithm": "Fletcher",
+    "strength": 64
   },
   {
-    "Algorithm": "FNV1",
-    "Strength": 1024
+    "algorithm": "FNV1",
+    "strength": 1024
   },
   {
-    "Algorithm": "Fortezza",
-    "Strength": 64
+    "algorithm": "Fortezza",
+    "strength": 64
   },
   {
-    "Algorithm": "Fortuna",
-    "Strength": 64
+    "algorithm": "Fortuna",
+    "strength": 64
   },
   {
-    "Algorithm": "GEA0-3",
-    "Strength": 64
+    "algorithm": "GEA0-3",
+    "strength": 64
   },
   {
-    "Algorithm": "GEA4-5",
-    "Strength": 128
+    "algorithm": "GEA4-5",
+    "strength": 128
   },
   {
-    "Algorithm": "GOST",
-    "Strength": 64
+    "algorithm": "GOST",
+    "strength": 64
   },
   {
-    "Algorithm": "Grain",
-    "Strength": 128
+    "algorithm": "Grain",
+    "strength": 128
   },
   {
-    "Algorithm": "GrainV1",
-    "Strength": 64
+    "algorithm": "GrainV1",
+    "strength": 64
   },
   {
-    "Algorithm": "Haval",
-    "Strength": 128
+    "algorithm": "Haval",
+    "strength": 128
   },
   {
-    "Algorithm": "HC128",
-    "Strength": 128
+    "algorithm": "HC128",
+    "strength": 128
   },
   {
-    "Algorithm": "HC256",
-    "Strength": 256
+    "algorithm": "HC256",
+    "strength": 256
   },
   {
-    "Algorithm": "ICE",
-    "Strength": 128
+    "algorithm": "ICE",
+    "strength": 128
   },
   {
-    "Algorithm": "Idea",
-    "Strength": 64
+    "algorithm": "Idea",
+    "strength": 64
   },
   {
-    "Algorithm": "ISAAC",
-    "Strength": 256
+    "algorithm": "ISAAC",
+    "strength": 256
   },
   {
-    "Algorithm": "Juniper"
+    "algorithm": "Juniper"
   },
   {
-    "Algorithm": "Kazumi",
-    "Strength": 64
+    "algorithm": "Kazumi",
+    "strength": 64
   },
   {
-    "Algorithm": "Keccak",
-    "Strength": 256
+    "algorithm": "Keccak",
+    "strength": 256
   },
   {
-    "Algorithm": "Khazad",
-    "Strength": 16
+    "algorithm": "Khazad",
+    "strength": 16
   },
   {
-    "Algorithm": "LOKI91",
-    "Strength": 64
+    "algorithm": "LOKI91",
+    "strength": 64
   },
   {
-    "Algorithm": "LUC",
-    "Strength": 64
+    "algorithm": "LUC",
+    "strength": 64
   },
   {
-    "Algorithm": "Lucifer",
-    "Strength": 128
+    "algorithm": "Lucifer",
+    "strength": 128
   },
   {
-    "Algorithm": "McEliece",
-    "Strength": 64
+    "algorithm": "McEliece",
+    "strength": 64
   },
   {
-    "Algorithm": "MD160",
-    "Strength": 64
+    "algorithm": "MD160",
+    "strength": 64
   },
   {
-    "Algorithm": "MD2",
-    "Strength": 256
+    "algorithm": "MD2",
+    "strength": 256
   },
   {
-    "Algorithm": "MD4",
-    "Strength": 128
+    "algorithm": "MD4",
+    "strength": 128
   },
   {
-    "Algorithm": "MD5",
-    "Strength": 128
+    "algorithm": "MD5",
+    "strength": 128
   },
   {
-    "Algorithm": "MD6",
-    "Strength": 512
+    "algorithm": "MD6",
+    "strength": 512
   },
   {
-    "Algorithm": "MDC2",
-    "Strength": 128
+    "algorithm": "MDC2",
+    "strength": 128
   },
   {
-    "Algorithm": "MISTY1",
-    "Strength": 32
+    "algorithm": "MISTY1",
+    "strength": 32
   },
   {
-    "Algorithm": "MQV",
-    "Strength": 512
+    "algorithm": "MQV",
+    "strength": 512
   },
   {
-    "Algorithm": "MSCash",
-    "Strength": 256
+    "algorithm": "MSCash",
+    "strength": 256
   },
   {
-    "Algorithm": "MSCash2",
-    "Strength": 128
+    "algorithm": "MSCash2",
+    "strength": 128
   },
   {
-    "Algorithm": "MULTI2",
-    "Strength": 128
+    "algorithm": "MULTI2",
+    "strength": 128
   },
   {
-    "Algorithm": "Nimbus",
-    "Strength": 256
+    "algorithm": "Nimbus",
+    "strength": 256
   },
   {
-    "Algorithm": "Noekeon",
-    "Strength": 128
+    "algorithm": "Noekeon",
+    "strength": 128
   },
   {
-    "Algorithm": "NTRUEncrypt",
-    "Strength": 128
+    "algorithm": "NTRUEncrypt",
+    "strength": 128
   },
   {
-    "Algorithm": "Panama",
-    "Strength": 128
+    "algorithm": "Panama",
+    "strength": 128
   },
   {
-    "Algorithm": "PBE",
-    "Strength": 128
+    "algorithm": "PBE",
+    "strength": 128
   },
   {
-    "Algorithm": "PBES1",
-    "Strength": 128
+    "algorithm": "PBES1",
+    "strength": 128
   },
   {
-    "Algorithm": "PBES2",
-    "Strength": 256
+    "algorithm": "PBES2",
+    "strength": 256
   },
   {
-    "Algorithm": "pbkdf2",
-    "Strength": 128
+    "algorithm": "pbkdf2",
+    "strength": 128
   },
   {
-    "Algorithm": "PKCS12",
-    "Strength": 128
+    "algorithm": "PKCS12",
+    "strength": 128
   },
   {
-    "Algorithm": "QUAD",
-    "Strength": 128
+    "algorithm": "QUAD",
+    "strength": 128
   },
   {
-    "Algorithm": "Rabbit",
-    "Strength": 128
+    "algorithm": "Rabbit",
+    "strength": 128
   },
   {
-    "Algorithm": "Rabin",
-    "Strength": 128
+    "algorithm": "Rabin",
+    "strength": 128
   },
   {
-    "Algorithm": "RC2",
-    "Strength": 128
+    "algorithm": "RC2",
+    "strength": 128
   },
   {
-    "Algorithm": "RC4",
-    "Strength": 2048
+    "algorithm": "RC4",
+    "strength": 2048
   },
   {
-    "Algorithm": "RC5",
-    "Strength": 128
+    "algorithm": "RC5",
+    "strength": 128
   },
   {
-    "Algorithm": "RC6",
-    "Strength": 128
+    "algorithm": "RC6",
+    "strength": 128
   },
   {
-    "Algorithm": "Rijndael",
-    "Strength": 256
+    "algorithm": "Rijndael",
+    "strength": 256
   },
   {
-    "Algorithm": "RIPEMD",
-    "Strength": 128
+    "algorithm": "RIPEMD",
+    "strength": 128
   },
   {
-    "Algorithm": "RSA",
-    "Strength": 128
+    "algorithm": "RSA",
+    "strength": 128
   },
   {
-    "Algorithm": "RSA-OAEP",
-    "Strength": 128
+    "algorithm": "RSA-OAEP",
+    "strength": 128
   },
   {
-    "Algorithm": "RSAES-PKCS1-V1_5",
-    "Strength": 128
+    "algorithm": "RSAES-PKCS1-V1_5",
+    "strength": 128
   },
   {
-    "Algorithm": "SALSA10",
-    "Strength": 64
+    "algorithm": "SALSA10",
+    "strength": 64
   },
   {
-    "Algorithm": "Salsa20",
-    "Strength": 128
+    "algorithm": "Salsa20",
+    "strength": 128
   },
   {
-    "Algorithm": "Sapphire",
-    "Strength": 256
+    "algorithm": "Sapphire",
+    "strength": 256
   },
   {
-    "Algorithm": "Seal",
-    "Strength": 128
+    "algorithm": "Seal",
+    "strength": 128
   },
   {
-    "Algorithm": "Seed",
-    "Strength": 256
+    "algorithm": "Seed",
+    "strength": 256
   },
   {
-    "Algorithm": "Serpent",
-    "Strength": 128
+    "algorithm": "Serpent",
+    "strength": 128
   },
   {
-    "Algorithm": "SHA1",
-    "Strength": 128
+    "algorithm": "SHA1",
+    "strength": 128
   },
   {
-    "Algorithm": "SHACAL",
-    "Strength": 128
+    "algorithm": "SHACAL",
+    "strength": 128
   },
   {
-    "Algorithm": "Shark",
-    "Strength": 64
+    "algorithm": "Shark",
+    "strength": 64
   },
   {
-    "Algorithm": "SHAx",
-    "Strength": 512
+    "algorithm": "SHAx",
+    "strength": 512
   },
   {
-    "Algorithm": "Skein",
-    "Strength": 256
+    "algorithm": "Skein",
+    "strength": 256
   },
   {
-    "Algorithm": "Skipjack",
-    "Strength": 32
+    "algorithm": "Skipjack",
+    "strength": 32
   },
   {
-    "Algorithm": "SMS4",
-    "Strength": 128
+    "algorithm": "SMS4",
+    "strength": 128
   },
   {
-    "Algorithm": "SNERFU",
-    "Strength": 256
+    "algorithm": "SNERFU",
+    "strength": 256
   },
   {
-    "Algorithm": "SNOW",
-    "Strength": 128
+    "algorithm": "SNOW",
+    "strength": 128
   },
   {
-    "Algorithm": "Sober",
-    "Strength": 128
+    "algorithm": "Sober",
+    "strength": 128
   },
   {
-    "Algorithm": "Sosemanuk",
-    "Strength": 128
+    "algorithm": "Sosemanuk",
+    "strength": 128
   },
   {
-    "Algorithm": "SRP",
-    "Strength": 128
+    "algorithm": "SRP",
+    "strength": 128
   },
   {
-    "Algorithm": "SSHA",
-    "Strength": 128
+    "algorithm": "SSHA",
+    "strength": 128
   },
   {
-    "Algorithm": "TCRYPT",
-    "Strength": 128
+    "algorithm": "TCRYPT",
+    "strength": 128
   },
   {
-    "Algorithm": "TDES",
-    "Strength": 128
+    "algorithm": "TDES",
+    "strength": 128
   },
   {
-    "Algorithm": "TEA",
-    "Strength": 128
+    "algorithm": "TEA",
+    "strength": 128
   },
   {
-    "Algorithm": "Threefish",
-    "Strength": 1024
+    "algorithm": "Threefish",
+    "strength": 1024
   },
   {
-    "Algorithm": "Tiger",
-    "Strength": 256
+    "algorithm": "Tiger",
+    "strength": 256
   },
   {
-    "Algorithm": "TNEPRES",
-    "Strength": 256
+    "algorithm": "TNEPRES",
+    "strength": 256
   },
   {
-    "Algorithm": "Twofish",
-    "Strength": 64
+    "algorithm": "Twofish",
+    "strength": 64
   },
   {
-    "Algorithm": "VMPC",
-    "Strength": 96
+    "algorithm": "VMPC",
+    "strength": 96
   },
   {
-    "Algorithm": "Wake",
-    "Strength": 64
+    "algorithm": "Wake",
+    "strength": 64
   },
   {
-    "Algorithm": "Whirpool",
-    "Strength": 128
+    "algorithm": "Whirpool",
+    "strength": 128
   },
   {
-    "Algorithm": "XTEA",
-    "Strength": 128
+    "algorithm": "XTEA",
+    "strength": 128
   },
   {
-    "Algorithm": "XTR",
-    "Strength": 64
+    "algorithm": "XTR",
+    "strength": 64
   },
   {
-    "Algorithm": "Yarrow",
-    "Strength": 160
+    "algorithm": "Yarrow",
+    "strength": 160
   },
   {
-    "Algorithm": "ZipCrypt",
-    "Strength": 64
+    "algorithm": "ZipCrypt",
+    "strength": 64
   },
   {
-    "Algorithm": "ZUC",
-    "Strength": 128
+    "algorithm": "ZUC",
+    "strength": 128
   }
 ]
